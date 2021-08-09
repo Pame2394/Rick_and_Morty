@@ -7,7 +7,7 @@ const Header = ({title}) => {
             <div className="container">
                 <div className="content">
                     <h1 className="title">{title}</h1>
-                    <p className="text">This project illustrates the characters of the famous Rick and Morty series</p>
+                    <p className="text">This is my first project using SASS</p>
                 </div>
             </div>
         </header>

@@ -23,6 +23,7 @@ const Characters = () => {
                                 <h3 className="name">{item.name}</h3>
                                 <p className="specie">{item.species}</p>
                                 <p className="status">{item.status}</p>
+                                <p className="gender">{item.gender}</p>
                             </div>
                         </div>
                     ) )

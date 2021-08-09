@@ -9,7 +9,7 @@ const App = () => {
     return ( 
         <Fragment>
             <Header
-                title="Rick and Morty API"
+                title="Rick and Morty"
             />
             <Characters />
         </Fragment>
